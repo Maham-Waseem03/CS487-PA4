@@ -189,7 +189,7 @@ Description: The logs confirm the initialization of the container, the execution
 ### Evidence 6.4: Generated PDF
 
 ![blob list command](docs/container-logs-blobs-list.png)
-![portal showing blobs](docs/container-logs-blobs-list.png)
+![portal showing blobs](docs/TEST001.png)
 
 Description: The presence of `TEST-001.pdf` in the blob list (and the associated XML access denial log) provides strict proof that the ACI successfully wrote the file to the restricted storage account.
 
